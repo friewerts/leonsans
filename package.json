@@ -1,0 +1,22 @@
+{
+  "name": "leonsans",
+  "version": "1.0.0",
+  "description": "Leon Sans npm wrapper",
+  "main": "dist/leon.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/friewerts/leonsans.git"
+  },
+  "author": "Frederik Riewerts <frederik.riewerts@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/friewerts/leonsans/issues"
+  },
+  "homepage": "https://github.com/friewerts/leonsans#readme"
+}
